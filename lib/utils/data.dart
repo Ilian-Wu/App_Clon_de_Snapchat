@@ -1,0 +1,17 @@
+final data = [
+  "Keanu reeves",
+  "Snapchat+",
+  "Tus amigos en Snapchat",
+  "Mis historias",
+  "Añadir a Mi historia",
+  "Amigos",
+  "Añadir amigos",
+  "Mis amigos",
+  "Spotlight y Mapa de Snaps",
+  "Añadir a Spotlight",
+  "Mis Spotlight favoritos",
+  "Mis tokens de Soap",
+  "Mapa de Snap",
+  "Cameos",
+  "Crear selfie para cameo",
+];
